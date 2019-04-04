@@ -8,3 +8,7 @@ Utilizing JavaScript to create a functioning arcade game, getting the player acr
 ### Playing the game
 
 with the arrow keys, move either left, right, down or up to reach the water and avoid the bugs at the same time
+
+
+### Demo the project here
+https://jonnyflores.github.io/arcade-game-udacity/
